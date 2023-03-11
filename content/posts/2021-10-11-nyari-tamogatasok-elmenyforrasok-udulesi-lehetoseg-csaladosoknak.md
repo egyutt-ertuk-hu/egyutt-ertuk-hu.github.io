@@ -3,15 +3,6 @@ title: Nyári támogatások – élményforrások – üdülési lehetőség csa
 author: imre
 type: post
 date: 2021-10-11T17:07:54+00:00
-site-sidebar-layout:
-  - default
-  - default
-site-content-layout:
-  - default
-  - default
-theme-transparent-header-meta:
-  - default
-  - default
 categories:
   - Egyéb kategória
 

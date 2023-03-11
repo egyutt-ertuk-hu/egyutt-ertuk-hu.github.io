@@ -3,68 +3,29 @@ title: Rólunk
 author: king
 type: page
 date: 2020-07-20T07:46:21+00:00
-site-post-title:
-  - disabled
-  - disabled
-site-sidebar-layout:
-  - no-sidebar
-  - no-sidebar
-site-content-layout:
-  - page-builder
-  - page-builder
-ast-featured-img:
-  - disabled
-  - disabled
-ast-breadcrumbs-content:
-  - disabled
-  - disabled
-theme-transparent-header-meta:
-  - enabled
-  - enabled
-ast-title-bar-display:
-  - disabled
-  - disabled
-astra-main-page-id:
-  - 47053
-  - 47053
-
 ---
 ## Rólunk
 
-Alapítványunk immár 29 éve ( 1991 óta) folytatja sokszínű tevékenységét az értelmileg akadályozott, súlyosan-halmozottan sérült, autizmussal élő gyermekek életminőségének fejlesztése céljából.
+Alapítványunk immár 1991 óta folytatja sokszínű tevékenységét az értelmileg akadályozott, súlyosan-halmozottan sérült, autizmussal élő gyermekek életminőségének fejlesztése céljából.
 
 Fő célkitűzésünk, hogy változatos programjainkon keresztül hozzájáruljunk az előítéletek csökkentéséhez, s sérült embertársaink társadalmi elfogadottságának növeléséhez.
 
 Rendszeres pályázati tevékenységünk révén tudjuk biztosítani, hogy – állandó támogatási formáink megtartása mellett – további szakmai támogatásokat (sporteszközök beszerzése, alternatív kommunikációs eszközök vásárlása, színházlátogatások, stb.) nyújthassunk célcsoportunk tagjai számára.
 
-###### Orbánné Molnár Anikó  
+**Orbánné Molnár Anikó**  
 kuratóriumi elnök
 
 ## Mi a célunk?
 
 29 éve töretlenül:
 
-<li style="list-style-type: none;">
-  <ul>
-    <li>
-      értelmileg akadályozott, súlyosan-halmozottan sérült gyermekek és fiatalok életminőségének fejlesztése
-    </li>
-    <li>
-      szebbé és tartalmasabbá tenni a gyermekek/fiatalok mindennapjait
-    </li>
-    <li>
-      sokoldalú terápiás lehetőséget (kutyaterápia, gyógylovaglás, hangtálterápia) biztosítani
-    </li>
-  </ul>
-</li>
+- értelmileg akadályozott, súlyosan-halmozottan sérült gyermekek és fiatalok életminőségének fejlesztése
+- szebbé és tartalmasabbá tenni a gyermekek/fiatalok mindennapjait
+- sokoldalú terápiás lehetőséget (kutyaterápia, gyógylovaglás, hangtálterápia) biztosítani
 
- 
-
- 
-
-  * megteremteni a tehetséggondozás (zene, sport tánc) feltételeit
-  * közösségi programok révén csökkenteni a társadalmi előítéleteket
-  * segítséget nyújtani a sérült gyermeket nevelő szülőknek
+- megteremteni a tehetséggondozás (zene, sport tánc) feltételeit
+- közösségi programok révén csökkenteni a társadalmi előítéleteket
+- segítséget nyújtani a sérült gyermeket nevelő szülőknek
 
 ## Kuratóriumi tagok
 

@@ -19,10 +19,10 @@ date: 2020-07-20T07:48:44+00:00
 
 A tehetséggondozás területei:
 
-  * néptáncoktatás,
-  * zenei fejlesztés Ulwila-módszerrel,
-  * zenei fejlesztés nyeles csengettyűvel,
-  * sport/kempo.
+- néptáncoktatás,
+- zenei fejlesztés Ulwila-módszerrel,
+- zenei fejlesztés nyeles csengettyűvel,
+- sport/kempo.
 
 A támogatás eredményeként a művészeti és sportcsoportok műsoraikkal, bemutatóikkal sok helyen felléptek és több esetben értékes díjjal tértek haza. E speciális tehetséggondozás eredményeként támogattuk a fiatalok Németországban, s Lengyelországban való fellépési lehetőségét.
 

@@ -3,22 +3,6 @@ title: Támogatás
 author: king
 type: page
 date: 2020-12-12T20:48:22+00:00
-site-post-title:
-  - disabled
-  - disabled
-ast-title-bar-display:
-  - disabled
-  - disabled
-ast-featured-img:
-  - disabled
-  - disabled
-site-content-layout:
-  - page-builder
-  - page-builder
-site-sidebar-layout:
-  - no-sidebar
-  - no-sidebar
-
 ---
 ## Segítsd Te is szervezetünket!
 
@@ -26,29 +10,29 @@ site-sidebar-layout:
 
 Élve az adótörvény adta lehetőséggel, évről évre jelentős összeget tesz ki az 1 %-okból befolyó bevétel. Az így keletkező bevételeinket az értelmileg akadályozott gyermekek és fiatalok táboroztatására, erdei iskola lebonyolítására, szociális kompetenciájuk fejlesztésére, valamint terápiás lehetőségeik bővítésére fordítjuk.
 
-##### Számlatulajdonos:
+### Számlatulajdonos:
 
 Együtt-Értük Alapítvány
 
-##### Számlavezető Bank:
+### Számlavezető Bank:
 
 OTP Székesfehérvár
 
-##### Bankszámlaszám:
+### Bankszámlaszám:
 
 11736116-20093776
 
-##### Közlemény:
+### Közlemény:
 
 Jelölje meg, ha konkrét célra küldi adományát
 
-##### Adószám:
+### Adószám:
 
 19097123-1-07
 
-##### Email:
+### Email:
 
-<egyuttertuk@gmail.com>  
+kapcsolat@egyutt-ertuk.hu
 
 
 <div data-elementor-type="wp-post" data-elementor-id="2055" class="elementor elementor-2055">
@@ -133,4 +117,4 @@ Jelölje meg, ha konkrét célra küldi adományát
   <h5 class="elementor-heading-title elementor-size-default">
     Nemzeti Együttműködési Alap
   </h5>
-</div></div> </div> </div> </div> </section> </div>
+<
