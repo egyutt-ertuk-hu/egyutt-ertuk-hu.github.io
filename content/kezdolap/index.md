@@ -3,31 +3,6 @@ title: Kezdőlap
 author: king
 type: page
 date: 2020-07-20T07:26:11+00:00
-site-post-title:
-  - disabled
-  - disabled
-site-sidebar-layout:
-  - no-sidebar
-  - no-sidebar
-site-content-layout:
-  - page-builder
-  - page-builder
-ast-featured-img:
-  - disabled
-  - disabled
-ast-breadcrumbs-content:
-  - disabled
-  - disabled
-theme-transparent-header-meta:
-  - enabled
-  - enabled
-ast-title-bar-display:
-  - disabled
-  - disabled
-astra-main-page-id:
-  - 47056
-  - 47056
-
 ---
 # Együtt-Értük Alapítvány
 
@@ -609,8 +584,8 @@ Az idei évben is 2 önkéntesünk élvezhette az ÉTA Szövetség szervezéséb
 </div></div> </div> </div> </div> </section> </div>
 
  [1]: #kapcsolatfelvetel
- [2]: https://egyutt-ertuk.hu/tevekenysegeink/#kezseg
- [3]: https://egyutt-ertuk.hu/tevekenysegeink/#kozessegepito
- [4]: https://egyutt-ertuk.hu/tevekenysegeink/#kozossegepito
- [5]: https://egyutt-ertuk.hu/tevekenysegeink/#jotekony
- [6]: https://egyutt-ertuk.hu/tevekenysegeink/#egyeb
+ [2]: /tevekenysegeink/#kezseg
+ [3]: /tevekenysegeink/#kozessegepito
+ [4]: /tevekenysegeink/#kozossegepito
+ [5]: /tevekenysegeink/#jotekony
+ [6]: /tevekenysegeink/#egyeb
