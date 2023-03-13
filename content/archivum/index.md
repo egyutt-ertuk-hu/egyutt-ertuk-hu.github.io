@@ -3,38 +3,8 @@ title: Archívum
 author: king
 type: page
 date: 2020-07-20T07:47:45+00:00
-site-post-title:
-  - disabled
-  - disabled
-site-sidebar-layout:
-  - no-sidebar
-  - no-sidebar
-site-content-layout:
-  - page-builder
-  - page-builder
-ast-featured-img:
-  - disabled
-  - disabled
-ast-breadcrumbs-content:
-  - disabled
-  - disabled
-theme-transparent-header-meta:
-  - enabled
-  - enabled
-ast-title-bar-display:
-  - disabled
-  - disabled
-astra-main-page-id:
-  - 47057
-  - 47057
-
 ---
 # Archívum
-
-  * <a href="javascript:;" data-filter="*"><br /> All<br /> </a>
-  * <a href="javascript:;" data-filter="egyeb"><br /> Egyéb kategória<br /> </a>
-
-  * [Egyéb kategória][1]
 
 ## <a href="https://egyutt-ertuk.hu/egyedi-jatekok-szakmai-egyuttmukodessel/" target="_self" rel="noopener"><br /> Egyedi játékok –szakmai együttműködéssel </a>
 
@@ -79,10 +49,10 @@ Nagy hangsúlyt helyez alapítványunk arra, hogy a – sok esetben már – tö
 
 A 2020-as év minden szervezet, így alapítványunk életében is „átírta” szokásos terveinket. A járványhelyzet miatt már a tavaszi időszakban élelmiszer és tisztítószer …
 
-<img decoding="async" width="1470" height="600" src="http://localhost:8080/wp-content/uploads/2020/12/DSC08317.jpg" alt="" loading="lazy" />  
+![](/wp-content/uploads/2020/12/DSC08317.jpg)  
 <a href="https://egyutt-ertuk.hu/ajandek-kisbuszt-kaptak-a-martonvasariak-a-kirandulasokra/" target="_self" rel="noopener"></a>
 
-  * [Egyéb kategória][1]
+* [Egyéb kategória][1]
 
 ## <a href="https://egyutt-ertuk.hu/ajandek-kisbuszt-kaptak-a-martonvasariak-a-kirandulasokra/" target="_self" rel="noopener"><br /> Ajándék kisbuszt kaptak a martonvásáriak a kirándulásokra </a>
 
@@ -91,4 +61,4 @@ A 2020-as év minden szervezet, így alapítványunk életében is „átírta�
 
 A kisbuszra az idén tízéves Fehérvár Travel Közhasznú Alapítvány a Rászorulókért adományozott hárommillió forintot a martonvásári alapítványnak. Az indítókulcs átadásán a gyerekek …
 
- [1]: https://egyutt-ertuk.hu/category/egyeb/
+[1]: https://egyutt-ertuk.hu/category/egyeb/
