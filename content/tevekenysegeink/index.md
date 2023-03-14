@@ -4,7 +4,6 @@ author: king
 type: page
 date: 2020-07-20T07:48:44+00:00
 ---
-# Tevékenységeink
 
 - [Készségfejlesztő programok](#keszsegfejleszto)
 - [Közösségépítő programok](#kozossegepito)

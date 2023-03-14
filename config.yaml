@@ -1,9 +1,26 @@
 url: http://localhost:1313
 name: Együtt-Értük Alapítvány
 title: Együtt-Értük Alapítvány
-theme: ananke
+theme: blist
 defaultContentLanguage: hu
-
+params:
+  darkModeToggle: true
+  enableSearch: true
+outputs:
+  home:
+  - HTML
+  - AMP
+  - RSS
+  - JSON
+searchKeys:
+  - "tags"
+  - "date"
+  - "categories"
+  - "summary"
+  - "content"
+  - "link"
+  - "author"
+  
 menu:
   main:
     - name: Kezdőlap
