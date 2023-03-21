@@ -12,6 +12,8 @@ Fő célkitűzésünk, hogy változatos programjainkon keresztül hozzájárulju
 
 Rendszeres pályázati tevékenységünk révén tudjuk biztosítani, hogy – állandó támogatási formáink megtartása mellett – további szakmai támogatásokat (sporteszközök beszerzése, alternatív kommunikációs eszközök vásárlása, színházlátogatások, stb.) nyújthassunk célcsoportunk tagjai számára.
 
+Alapítványunk az [ÉTA Országos Szövetség](https://www.eta-szov.hu) tagszervezete.
+
 **Orbánné Molnár Anikó**  
 kuratóriumi elnök
 

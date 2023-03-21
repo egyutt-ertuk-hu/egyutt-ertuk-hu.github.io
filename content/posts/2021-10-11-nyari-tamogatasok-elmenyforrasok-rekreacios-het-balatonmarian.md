@@ -5,6 +5,7 @@ type: post
 date: 2021-10-11T17:01:56+00:00
 categories:
   - Egyéb kategória
+  - ÉTA szövetség támogatása
 ---
 ![](/wp-content/uploads/2021/10/241895783_657670115155121_66222661370854793_n-1.jpg)
 

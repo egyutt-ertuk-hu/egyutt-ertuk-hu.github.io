@@ -33,13 +33,3 @@ Jelölje meg, ha konkrét célra küldi adományát
 **Email:**
 
 kapcsolat@egyutt-ertuk.hu
-
-## Támogatóink
-
-[ÉTA szövetség](https://eta-szov.hu)
-
-[Fehérvár Travel Alapítvány](https://www.fehervartravelalapitvany.hu/)
-
-[Miniszterelnökség](https://kormany.hu/miniszterelnokseg)
-
-[Nemzeti Együttműködési Alap](https://civil.info.hu/nea/kezdolap/bemutatkozas/index.html)

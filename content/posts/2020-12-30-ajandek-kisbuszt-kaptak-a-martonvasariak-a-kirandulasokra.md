@@ -6,7 +6,6 @@ date: 2020-12-30T03:13:08+00:00
 featured_image: /wp-content/uploads/2020/12/DSC08317.jpg
 categories:
   - Egyéb kategória
-
 ---
 A kisbuszra az idén tízéves Fehérvár Travel Közhasznú Alapítvány a Rászorulókért adományozott hárommillió forintot a martonvásári alapítványnak. Az indítókulcs átadásán a gyerekek farsangi műsorukkal köszönték meg az ajándékot. Az alapítvány a Martonvásáron nevelkedő gyermekeknek immáron ötödször nyújtott segítséget.
 

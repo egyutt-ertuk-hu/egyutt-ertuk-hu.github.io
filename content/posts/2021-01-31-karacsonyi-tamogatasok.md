@@ -5,6 +5,7 @@ type: post
 date: 2021-01-31T00:03:21+00:00
 categories:
   - Egyéb kategória
+  - ÉTA szövetség támogatása
 ---
 A 2020-as év minden szervezet, így alapítványunk életében is „átírta” szokásos terveinket.
 
