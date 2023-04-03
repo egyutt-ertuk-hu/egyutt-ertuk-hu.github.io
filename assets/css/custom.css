@@ -1,0 +1,183 @@
+/* custom fonts */
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+}
+
+
+/* color */
+
+:root {
+    --main-custom-color: #f4a03a;
+    --main-background-color: #ffffee;
+}
+
+::-moz-selection {
+    background: var(--main-custom-color);
+}
+
+::selection {
+    background: var(--main-custom-color);
+}
+
+.btn-transparent:hover,
+.btn-transparent:focus {
+    background-color: var(--main-custom-color);
+}
+
+.border-meghna:before {
+    background-color: var(--main-custom-color);
+}
+
+a:focus,
+a:hover {
+    color: var(--main-custom-color);
+}
+
+.btn-main {
+    background: var(--main-custom-color);
+}
+
+.title h2 span {
+    color: var(--main-custom-color);
+}
+
+.header-bradcrumb a:hover {
+    color: var(--main-custom-color);
+}
+
+
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link {
+    color: var(--main-custom-color);
+}
+
+
+.hero-area .block .video-button {
+    color: var(--main-custom-color);
+}
+
+.about .block:hover {
+    border-bottom: 2px solid var(--main-custom-color);
+}
+
+.about-2 .content-block .media i {
+    color: var(--main-custom-color);
+}
+
+.form-meghna input:hover,
+.form-meghna textarea:hover {
+    border-color: var(--main-custom-color);
+}
+
+#contact-submit {
+    background: var(--main-custom-color);
+}
+
+.price-title h3 {
+    color: var(--main-custom-color);
+}
+
+.price-title .value {
+    color: var(--main-custom-color);
+}
+
+.portfolio-filter .btn.active {
+    border-color: var(--main-custom-color);
+}
+
+.portfolio-block .caption .search-icon {
+    background: var(--main-custom-color);
+}
+
+.service-2 .service-item:hover i {
+    color: var(--main-custom-color);
+}
+
+.service-2 .service-item i {
+    background: var(--main-custom-color) none repeat scroll 0 0;
+}
+
+.skill-bar .progress .progress-bar {
+    background: var(--main-custom-color);
+}
+
+
+.member-photo .mask ul li a:hover {
+    color: var(--main-custom-color);
+}
+
+.owl-controls .owl-page.active span,
+.owl-controls .owl-page:hover span {
+    background-color: var(--main-custom-color);
+}
+
+.post-meta a {
+    color: var(--main-custom-color);
+}
+
+.next-prev a:hover {
+    color: var(--main-custom-color);
+}
+
+.social-profile ul li a i:hover {
+    color: var(--main-custom-color);
+}
+
+.comment-wrap .media .media-heading a {
+    color: var(--main-custom-color);
+}
+
+.comment-reply-form input:focus,
+.comment-reply-form textarea:focus {
+    border: 1px solid var(--main-custom-color);
+}
+
+.social-icon ul li a:hover {
+    background: var(--main-custom-color);
+}
+
+#scrollUp:hover {
+    background-color: var(--main-custom-color);
+    border: 1px solid var(--main-custom-color);
+}
+
+.form-control-meghna .form-control:focus {
+    border-color: var(--main-custom-color);
+}
+
+.pagination .page-item .page-link:hover {
+    background: var(--main-custom-color);
+    border-color: var(--main-custom-color);
+}
+
+.pagination .page-item.active .page-link {
+    background: var(--main-custom-color);
+    border-color: var(--main-custom-color);
+}
+
+
+/* fix member-photo alignment in wider media */
+
+.member-photo {
+    text-align: center;
+    vertical-align: middle;
+    height: 210px;
+}
+.team-member {
+    height: 100%;
+}

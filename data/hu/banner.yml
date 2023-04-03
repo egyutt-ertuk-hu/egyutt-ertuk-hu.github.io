@@ -1,0 +1,27 @@
+############################### Banner ################################
+banner:
+  enable: false
+  bg_image_webp: "images/backgrounds/hero-area.webp"
+  bg_image: "images/backgrounds/hero-area.jpg"
+  icon: "" # themify icon pack : https://themify.me/themify-icons
+  title: "Együtt-Értük Alapítvány"
+  content: >
+    Alapítványunk immár 29 éve ( 1991 óta) folytatja sokszínű tevékenységét az értelmileg akadályozott, súlyosan-halmozottan sérült, autizmussal élő gyermekek életminőségének fejlesztése céljából.
+
+
+    Fő célkitűzésünk, hogy változatos programjainkon keresztül hozzájáruljunk az előítéletek csökkentéséhez, s sérült embertársaink társadalmi elfogadottságának növeléséhez.
+
+
+    Rendszeres pályázati tevékenységünk révén tudjuk biztosítani, hogy – állandó támogatási formáink megtartása mellett – további szakmai támogatásokat (sporteszközök beszerzése, alternatív kommunikációs eszközök vásárlása, színházlátogatások, stb.) nyújthassunk célcsoportunk tagjai számára.
+    
+    
+
+    ---
+    
+    Orbánné Molnár Anikó
+    kuratóriumi elnök
+  
+  button:
+    enable: true
+    label: "Ismerj meg minket"
+    link: "#about"

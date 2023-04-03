@@ -1,0 +1,25 @@
+################################# funfacts ##################################
+funfacts:
+  enable : false
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    # counter item loop
+    - title : "támogatott fiatal évente"
+      icon : "fa fa-hands-holding-child" # themify icon pack : https://themify.me/themify-icons
+      count : "110"
+    
+    # counter item loop
+    - title : "millió forint támogatás az elmúlt évben"
+      icon : "fa fa-money-bills" # themify icon pack : https://themify.me/themify-icons
+      count : "17"
+    
+    # counter item loop
+    - title : "önkéntes munkaóra"
+      icon : "fa fa-people-carry-box" # themify icon pack : https://themify.me/themify-icons
+      count : "700"
+    
+    # counter item loop
+    - title : "éve az értelmileg akadályozott gyermekekért"
+      icon : "fa fa-calendar" # themify icon pack : https://themify.me/themify-icons
+      count : "30"

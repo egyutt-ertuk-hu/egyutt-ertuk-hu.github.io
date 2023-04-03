@@ -1,0 +1,28 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Kapcsolat
+  subtitle : Együtt-Értük Alapítvány
+  #content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+
+  # Contact details
+  contact_list:
+    - icon : fa fa-map-location # themify icon pack : https://themify.me/themify-icons
+      info : "Székhely: 2462 Martonvásár, Bajcsy-Zs. u. 32."
+      
+    - icon : fa fa-phone # themify icon pack : https://themify.me/themify-icons
+      info : "Telefon: +36 22 6200 525"
+      
+    - icon : fa fa-envelope # themify icon pack : https://themify.me/themify-icons
+      info : "Email: kapcsolat@egyutt-ertuk.hu"
+
+
+  # Contact form
+  contact_form:
+    enable : false
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

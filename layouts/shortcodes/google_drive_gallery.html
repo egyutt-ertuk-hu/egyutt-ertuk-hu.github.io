@@ -1,0 +1,17 @@
+<!--
+Put this file in /layouts/shortcodes/gallery.html
+Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
+-->
+
+<!-- count how many times we've called this shortcode; load the css if it's the first time -->
+<link rel="stylesheet" href={{ "css/hugo-easy-gallery.css" | relURL }} />
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+</div>
+
+<script src="https://apis.google.com/js/api.js"></script>
+<script>
+	let folder_id = {{ .Get "folder_id" }};
+</script>
+
+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

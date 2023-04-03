@@ -1,0 +1,38 @@
+############################# About ###################################
+about:
+  enable: true
+  title: Tevékenységeink
+  about_item:
+  - icon : fa fa-palette # themify icon pack : https://themify.me/themify-icons
+    title : Készségfejlesztés
+    content: >
+      „Mindenki tehetséges valamiben”, ez Alapítványunk célkitűzései között a kezdetektől szerepel.
+      
+      
+#      [Tovább](tevekenysegeink/#keszsegfejlesztes)
+    
+  - icon : fa fa-people-roof # themify icon pack : https://themify.me/themify-icons
+    title : Közösségépítés
+    content:  >
+      Az osztályközösség együttesen átélt élményei pozitív hatással vannak a tanulók
+      személyiségfejlődésére is.
+
+
+#      [Tovább](tevekenysegeink/#kozossegepito)
+
+  - icon : fa fa-hand-holding-heart # themify icon pack : https://themify.me/themify-icons
+    title : Jótékonyság
+    content: >
+      Önkéntes támogatóinknak köszönhetően a gyerekek számos önfeledt élményt élhetnek át.
+
+
+#      [Tovább](tevekenysegeink/#jotekonysagi)
+
+
+  - icon : fa fa-comment-dots # themify icon pack : https://themify.me/themify-icons
+    title : Egyéb
+    content: >
+      Emellett még számos integrációs, szocializációs és szabadidős programokat szervezünk.
+
+
+      [Tovább](tevekenysegeink/#egyeb)

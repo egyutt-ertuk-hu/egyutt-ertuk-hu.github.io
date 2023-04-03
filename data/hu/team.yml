@@ -1,0 +1,33 @@
+############################### team ############################
+team:
+  enable : true
+  title : Támogatóink
+  team_member :
+    # team member loop
+    - name : ÉTA szövetség
+      #image_webp : images/team/team-1.webp
+      image: images/ETA_logo-150x150.jpg
+      # designation : CEO/Founder
+      content: >
+        Alapítványunk az ÉTA szövetség tagja
+      social :
+        - icon: fa fa-globe
+          link: https://eta-szov.hu
+        
+    - name : Fehérvár Travel Alapítvány
+      image : images/fta-logo-150x150.jpg
+      social :
+        - icon: fa fa-globe
+          link: http://www.fehervartravelalapitvany.hu/
+
+    - name : Miniszterelnökség
+      image : images/nem_270-150x132.jpg
+      social :
+        - icon: fa fa-globe
+          link: https://kormany.hu/miniszterelnokseg
+
+    - name : Nemzeti Együttműködési Alap
+      image : images/nea-1.jpg
+      social :
+        - icon: fa fa-globe
+          link: https://civil.info.hu/nea/kezdolap/bemutatkozas/index.html

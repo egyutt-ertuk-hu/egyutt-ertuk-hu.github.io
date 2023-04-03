@@ -1,0 +1,26 @@
+############################### Banner ################################
+donate:
+  enable: true
+  bg_image_webp: "images/backgrounds/hero-area.webp"
+  bg_image: "images/backgrounds/hero-area.jpg"
+  icon: ""
+  title: "Adó 1%"
+  content: >
+
+    ## 19097123-1-07
+
+
+    Élve az adótörvény adta lehetőséggel, évről évre jelentős összeget tesz ki az 1%-okból befolyó bevétel.
+
+
+    Az így keletkező bevételeinket az értelmileg akadályozott gyermekek és fiatalok táboroztatására,
+    erdei iskola lebonyolítására, szociális kompetenciájuk fejlesztésére, valamint terápiás lehetőségeik bővítésére fordítjuk.
+
+
+
+
+
+  button:
+    enable: true
+    label: "Részletek"
+    link: "/tamogatas"

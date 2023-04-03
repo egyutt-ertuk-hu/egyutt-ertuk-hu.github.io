@@ -10,3 +10,6 @@
 [submodule "hugo-easy-gallery"]
 	path = hugo-easy-gallery
 	url = https://github.com/liwenyip/hugo-easy-gallery.git
+[submodule "themes/meghna-hugo"]
+	path = themes/meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo.git

@@ -1,7 +1,7 @@
 url: http://localhost:1313
 name: Együtt-Értük Alapítvány
 title: Együtt-Értük Alapítvány
-theme: blist
+theme: meghna-hugo
 defaultContentLanguage: hu
 params:
   darkModeToggle: true
@@ -18,12 +18,28 @@ params:
         - website: facebook
         - url: https://www.facebook.com/EgyuttErtukAlapitvany
 
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/themify-icons/themify-icons.css
+      - link: plugins/magnific-popup/magnific-popup.css
+      - link: plugins/slick/slick.css
+      - link: https://fonts.googleapis.com/css?family=Montserrat|Anaheim|Quattrocento+Sans:400,700&display=swap
+      - link: plugins/fontawesome/css/all.css
+    js:
+      - link: plugins/jquery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/shuffle/shuffle.min.js
+      - link: plugins/magnific-popup/jquery.magnific-popup.min.js
+      - link: plugins/lazy-load/lozad.min.js
+      - link: plugins/google-map/map.js
 outputs:
   home:
   - HTML
   - AMP
   - RSS
-  - JSON
+  # - JSON
 searchKeys:
   - "tags"
   - "date"
@@ -36,17 +52,20 @@ searchKeys:
 menu:
   main:
     - name: Kezdőlap
-      url: '/'
+      url: ''
       weight: 1
+    - name: Tevékenységeink
+      url: '#about'
+      weight: 2
+    - name: Hírek
+      url: '#blog'
+      weight: 3
     - name: Rólunk
       url: '/rolunk'
-      weight: 2
-    - name: Tevékenységeink
-      url: '/tevekenysegeink'
       weight: 3
-    - name: Archívum
-      url: '/archivum'
+    - name: Támogatóink
+      url: '#team'
       weight: 4
     - name: Támogatás
-      url: '/tamogatas'
+      url: '#donate'
       weight: 5
