@@ -1,0 +1,14 @@
+<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
+  <div class="post-block">
+    <div class="media-wrapper">
+      {{ if eq 1 (.Resources.Match "cover.*" | len)  }}
+      <img class="img-fluid lozad" data-src="{{ .Permalink }}{{ index (.Resources.Match "cover.*") 0 }}" onerror="this.onerror=null;this.src='{{ .Params.image | absURL }}'">
+      {{ end }}
+    </div>
+    <div class="content">
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <p>{{ .Summary }}</p>
+      <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
+    </div>
+  </div>
+</article>

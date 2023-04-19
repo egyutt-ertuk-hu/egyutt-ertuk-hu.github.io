@@ -3,6 +3,8 @@ name: Együtt-Értük Alapítvány
 title: Együtt-Értük Alapítvány
 theme: meghna-hugo
 defaultContentLanguage: hu
+taxonomies:
+  palyazat: palyazatok
 params:
   darkModeToggle: true
   enableSearch: true
@@ -62,10 +64,10 @@ menu:
       weight: 3
     - name: Rólunk
       url: '/rolunk'
-      weight: 3
+      weight: 4
     - name: Támogatóink
       url: '#team'
-      weight: 4
+      weight: 5
     - name: Támogatás
       url: '#donate'
-      weight: 5
+      weight: 6

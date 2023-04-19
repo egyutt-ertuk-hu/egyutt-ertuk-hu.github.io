@@ -20,8 +20,10 @@ p {
 /* color */
 
 :root {
+    --main-color: #b0eef8;    ;
     --main-custom-color: #f4a03a;
-    --main-background-color: #ffffee;
+    --main-background-color: #125e69;
+    --main-darker-background-color: #09343a;
 }
 
 ::-moz-selection {
@@ -30,6 +32,18 @@ p {
 
 ::selection {
     background: var(--main-custom-color);
+}
+
+html {
+    background-color: var(--main-background-color);
+}
+body {
+    background-color: var(--main-background-color);
+    color: var(--main-color);
+}
+
+.bg-one {
+    background-color: var(--main-background-color);
 }
 
 .btn-transparent:hover,
@@ -58,6 +72,10 @@ a:hover {
     color: var(--main-custom-color);
 }
 
+
+.navbar-dark .navbar-nav .nav-link {
+    color: var(--main-custom-color);
+}
 
 .navbar-dark .navbar-nav .active>.nav-link,
 .navbar-dark .navbar-nav .nav-link.active,
@@ -170,7 +188,13 @@ a:hover {
     border-color: var(--main-custom-color);
 }
 
-
+.about .block,
+.section-bg,
+.navigation,
+.post-block,
+.team-member {
+    background-color: var(--main-darker-background-color);
+}
 /* fix member-photo alignment in wider media */
 
 .member-photo {

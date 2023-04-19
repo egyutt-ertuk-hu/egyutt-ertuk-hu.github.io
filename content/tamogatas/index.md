@@ -1,6 +1,5 @@
 ---
 title: Támogatás
-author: king
 date: 2020-12-12T20:48:22+00:00
 ---
 ## Segítsd Te is szervezetünket!

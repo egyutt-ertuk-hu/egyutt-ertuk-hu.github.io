@@ -29,10 +29,10 @@ about:
 #      [Tovább](tevekenysegeink/#jotekonysagi)
 
 
-  - icon : fa fa-comment-dots # themify icon pack : https://themify.me/themify-icons
-    title : Egyéb
-    content: >
-      Emellett még számos integrációs, szocializációs és szabadidős programokat szervezünk.
-
-
-      [Tovább](tevekenysegeink/#egyeb)
+#  - icon : fa fa-comment-dots # themify icon pack : https://themify.me/themify-icons
+#    title : Egyéb
+#    content: >
+#      Emellett még számos integrációs, szocializációs és szabadidős programokat szervezünk.
+#
+#
+#      [Tovább](tevekenysegeink/#egyeb)
