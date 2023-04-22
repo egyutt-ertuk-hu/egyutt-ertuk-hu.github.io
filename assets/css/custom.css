@@ -169,6 +169,15 @@ a:hover {
     background: var(--main-custom-color);
 }
 
+.social-icon ul li a {
+    background: var(--main-background-color);
+}
+
+.social-icon ul li a i{
+    color: var(--main-color);
+}
+
+
 #scrollUp:hover {
     background-color: var(--main-custom-color);
     border: 1px solid var(--main-custom-color);

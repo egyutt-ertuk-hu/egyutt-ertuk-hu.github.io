@@ -1,4 +1,4 @@
-url: http://localhost:1313
+# url: http://localhost:1313
 name: Együtt-Értük Alapítvány
 title: Együtt-Értük Alapítvány
 theme: meghna-hugo
@@ -12,14 +12,11 @@ params:
   logo: images/logo.png
   favicon: images/favicon.png
 
-  homepage:
-    social:
-      # Global params common for both languages
-      title: "Közösségi média"
-      description: "Kövess minket!"
-      icons:
-        - website: facebook
-        - url: https://www.facebook.com/EgyuttErtukAlapitvany
+  social:
+    - icon: fa fa-facebook-f fa-brands
+      link: https://www.facebook.com/EgyuttErtukAlapitvany
+    - icon: fa fa-youtube fa-brands
+      link: https://www.youtube.com/@egyutt-ertuk
 
   plugins:
     css:
