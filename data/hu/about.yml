@@ -9,7 +9,7 @@ about:
       „Mindenki tehetséges valamiben”, ez Alapítványunk célkitűzései között a kezdetektől szerepel.
       
       
-#      [Tovább](tevekenysegeink/#keszsegfejlesztes)
+      [Tovább](tevekenysegeink/#keszseg)
     
   - icon : fa fa-people-roof # themify icon pack : https://themify.me/themify-icons
     title : Közösségépítés
@@ -18,7 +18,7 @@ about:
       személyiségfejlődésére is.
 
 
-#      [Tovább](tevekenysegeink/#kozossegepito)
+      [Tovább](tevekenysegeink/#kozossegepito)
 
   - icon : fa fa-hand-holding-heart # themify icon pack : https://themify.me/themify-icons
     title : Jótékonyság
@@ -26,13 +26,13 @@ about:
       Önkéntes támogatóinknak köszönhetően a gyerekek számos önfeledt élményt élhetnek át.
 
 
-#      [Tovább](tevekenysegeink/#jotekonysagi)
+      [Tovább](tevekenysegeink/#jotekony)
 
 
-#  - icon : fa fa-comment-dots # themify icon pack : https://themify.me/themify-icons
-#    title : Egyéb
-#    content: >
-#      Emellett még számos integrációs, szocializációs és szabadidős programokat szervezünk.
-#
-#
-#      [Tovább](tevekenysegeink/#egyeb)
+  - icon : fa fa-comment-dots # themify icon pack : https://themify.me/themify-icons
+    title : Egyéb
+    content: >
+      Emellett még számos integrációs, szocializációs és szabadidős programokat szervezünk.
+
+
+      [Tovább](tevekenysegeink/#egyeb)
