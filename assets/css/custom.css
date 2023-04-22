@@ -214,3 +214,12 @@ a:hover {
 .team-member {
     height: 100%;
 }
+
+/* decapitalize */
+
+.title h2,
+.hero-area .block h1,
+.note .excerpt h3,
+.post-block .content h3 {
+    text-transform: none;
+} 
