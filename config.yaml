@@ -5,6 +5,7 @@ theme: meghna-hugo
 defaultContentLanguage: hu
 taxonomies:
   palyazat: palyazatok
+  tag: tags
 params:
   darkModeToggle: true
   enableSearch: true

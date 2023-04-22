@@ -2,13 +2,14 @@
 title: Karácsonyi támogatások
 type: post
 date: 2021-01-31T00:03:21+00:00
-categories:
-  - Egyéb kategória
-  - ÉTA szövetség támogatása
+palyazatok:
+  - eta
 ---
 A 2020-as év minden szervezet, így alapítványunk életében is „átírta” szokásos terveinket.
 
 A járványhelyzet miatt már a tavaszi időszakban **élelmiszer és tisztítószer csomaggal** kerestük meg a legrászorulóbb családokat, s ezt az akciót – az ÉTA Szövetség támogatásának köszönhetően - karácsony előtt is megismételtük.
+
+<!--more-->
 
 Novemberben örömmel fogadtuk a hírt, hogy a **hagyományos karácsonyi Jótékonysági Vásár** kedvezményezettje alapítványunk, s ezen keresztül a Pápay Iskola tanulói lesznek. Példaértékű volt az az összefogás, ami e vásár kapcsán megjelent, s az a kreativitás, mely a vírushelyzetben is megtalálta a legmegfelelőbb megoldást az eredeti célkitűzés megvalósítására.
 

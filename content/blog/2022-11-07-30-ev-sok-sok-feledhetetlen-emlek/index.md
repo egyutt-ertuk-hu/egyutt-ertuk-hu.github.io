@@ -1,13 +1,10 @@
 ---
 title: 30 év – sok-sok feledhetetlen emlék
-type: post
 date: 2022-11-07T07:15:41+00:00
-image: /wp-content/uploads/2022/11/Tortak.jpg
-categories:
-  - Egyéb kategória
-  - Nyitólap
 ---
 Az elmúlt évünk a 30 éves jubileum jegyében zajlott!
+
+<!--more-->
 
 A decemberre tervezett (járvány miatt elhalasztott) ünnepségünket májusban rendeztük meg.  
 Köszöntöttük alapítóinkat, támogatóinkat, partnereinket, s természetesen a kuratórium tagjai mellett  
