@@ -50,9 +50,10 @@ A tálak hozzájárulnak a testi-lelki- szellemi egység megteremtéséhez.
 - rohanó világunkban megállásra, a dolgok teljesebb megélésére ösztönöznek.
 
   <!-- Items Container -->
-  
-{{< figure src="/wp-content/uploads/2020/12/Hangtal.jpg">}}
+
+{{< figure src="/wp-content/uploads/2020/12/18951082_1343825842379055_9210088238995176607_n.jpg">}}
 <!--
+{{< figure src="/wp-content/uploads/2020/12/Hangtal.jpg">}}
 ![](/wp-content/uploads/2020/12/20180413_085205-2-scaled-1.jpg)
 ![](/wp-content/uploads/2020/12/19029286_1343825869045719_9066412932038593510_n.jpg)
 ![](/wp-content/uploads/2020/12/18951082_1343825842379055_9210088238995176607_n.jpg)
@@ -166,7 +167,7 @@ Sok-sok pozitív visszajelzést kaptunk a résztvevőktől, s így hagyományt t
 Hihetetlen sok szép élményt éltünk meg az évek során Estjeinken, talán ezek egy részét a fényképek is visszatükrözik.
 
 A programok bevételéből játszótéri eszközöket, s terápiás eszközöket szereztünk be, s így válhatott hatékonyabbá céljaink megvalósulása.
-{{< figure src="/wp-content/uploads/2021/02/jotekonysagiest.jpg">}}
+{{< figure src="/wp-content/uploads/2021/02/Kep1.jpg">}}
 
 <!--
 ![](/wp-content/uploads/2021/02/jotekonysagiest.jpg)

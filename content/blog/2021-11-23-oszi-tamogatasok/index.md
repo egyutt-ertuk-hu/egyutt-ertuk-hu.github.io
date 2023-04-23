@@ -1,9 +1,6 @@
 ---
 title: Őszi támogatások
 date: 2021-11-23T11:13:11+00:00
-palyazatok:
-  - eta
-  - nea
 ---
 Szeptember 13-án az __Állatkerti kiránduláshoz__ járultunk hozzá a buszköltség térítésével.
 

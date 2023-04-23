@@ -1,9 +1,6 @@
 ---
 title: Képzések önkénteseknek
 date: 2021-01-31T00:13:42+00:00
-palyazatok:
-  - eta
-  - nea
 ---
 Nagy hangsúlyt helyez alapítványunk arra, hogy a – sok esetben már - több évtizedes önkéntes tevékenységet végző lelkes szakemberek részére képzéseket, rekreációs kirándulásokat, mentálhigiénés programokat biztosítson.
 

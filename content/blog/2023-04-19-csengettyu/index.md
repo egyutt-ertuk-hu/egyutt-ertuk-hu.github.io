@@ -2,9 +2,7 @@
 title: Csengettyű
 date: 2023-04-19
 palyazatok:
-  - eta2022
-tags:
-  - vezércikk
+  - eta-szakmai-2022
 ---
 Az [ÉTA Szövetség](https://eta-szov.hu) támogatásával bővíteni tudtuk csengettyű készletünket, mely egyik kiemelt tehetséggondozó tevékenységünk.
 

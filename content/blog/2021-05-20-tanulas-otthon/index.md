@@ -1,8 +1,6 @@
 ---
-title: Tanulás Otthon
-type: post
+title: Tanulás otthon
 date: 2021-05-20T21:56:41+00:00
-image: /wp-content/uploads/2021/05/Aktualis-digitalis-oktatas-tamogatasa.jpg
 ---
 Minden tanulónak, aki az autista csoportba jár, egy feladatlapokból
 összeállított dossziét tudtunk hazaküldeni, mely az egyéni képességeiket
