@@ -3,8 +3,10 @@ title: Kutyaterápia
 date: 2023-04-19
 palyazatok:
   - eta2022
+tags:
+  - vezércikk
 ---
-Az [ÉTA Szövetség](https://www.eta-szov.hu) pályázatának köszönhetően az idei évben is nagy örömünkre elindulhatott az egyik legkedveltebb állatasszisztált foglalkozásunk, a kutyaterápia. 
+Az [ÉTA Szövetség](https://www.eta-szov.hu) pályázatának köszönhetően az idei évben is nagy örömünkre elindulhatott az egyik legkedveltebb állatasszisztált foglalkozásunk, a kutyaterápia.
 
 <!--more-->
 

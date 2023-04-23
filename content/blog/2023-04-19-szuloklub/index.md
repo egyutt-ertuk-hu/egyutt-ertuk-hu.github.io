@@ -4,6 +4,8 @@ date: 2023-04-19
 palyazatok:
   - eta2022
   - nea2022
+tags:
+  - vezércikk
 ---
 Az idei évben is pályázati támogatással minden hónapban megrendeztük ,”Szülőklub" foglalkozásainkat az érdeklődő szülők részére.
 <!--more-->
