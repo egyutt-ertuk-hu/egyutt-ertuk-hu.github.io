@@ -11,6 +11,7 @@ params:
   enableSearch: true
   logo: images/logo.png
   favicon: images/favicon.png
+  google_analytics_id: G-0846F6GREM
 
   social:
     - icon: fa fa-facebook-f fa-brands
