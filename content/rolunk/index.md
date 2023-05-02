@@ -35,5 +35,6 @@ Alapítványunk az [ÉTA Országos Szövetség](https://www.eta-szov.hu) tagszer
 
 - [2017](Besz%C3%A1mol%C3%B3%20k%C3%B6zz%C3%A9t%C3%A9tele%202018.%20m%C3%A1jus%20-%20OBH.pdf)
 - [2019](Kozhasznusagi-jelentes-2019.-evi.pdf)
+- [2018](OBHGEPI_PK_742_19097123107_Együtt_Értük_Alapítvány_8920646363100.pdf)
 - [2020](2020.-evi-kozhasznusagi-beszamolo.pdf)
 - [2021](OBHGEPI_PK_742_19097123107_Együtt_Értük_Alapítvány_8920646363100.pdf)
