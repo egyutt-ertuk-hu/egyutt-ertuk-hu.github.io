@@ -4,7 +4,7 @@ date: 2023-07-31
 palyazatok:
   - nea2023
 ---
-2023. májusában különleges rendezvénysorozat valósulhatott meg az “Együtt-Értük” Alapítvány szervezésében. 
+2023\. májusában különleges rendezvénysorozat valósulhatott meg az “Együtt-Értük” Alapítvány szervezésében. 
 <!--more-->
 A “Tavaszi zsongás” nevű integrált rendezvénysorozat keretében együtt ünnepelhettük a környék településeinek iskolásaival, óvodásaival együtt az összetartozás, a közös munka, közös tanulás, közös játék élményét. Boldogok voltunk, hiszen nagyon sokan bekapcsolódtak a programba, akik támogatott tanulóinkkal együtt töltöttek egy-egy délelőttöt. A célunk ezzel a programmal az volt, hogy a gyerekek a jó hangulatú együttlét közben tanulják az elfogadást, a megértést, segítést. A felnőttek többet tudjanak rólunk, megismerjenek minket és betekintést nyerjenek a szakmai módszereinkbe.
 
