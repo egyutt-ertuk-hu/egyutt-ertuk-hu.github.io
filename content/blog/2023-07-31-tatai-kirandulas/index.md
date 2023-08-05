@@ -1,8 +1,6 @@
 ---
 title: Tatai kirándulás
 date: 2023-07-31
-palyazatok:
-  - nea2023
 ---
 Alapítványi támogatásból önkénteseink kiránduláson vettek részt.
 <!--more-->
