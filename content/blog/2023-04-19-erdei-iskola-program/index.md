@@ -3,8 +3,6 @@ title: Erdei iskola program
 date: 2023-04-19
 palyazatok:
   - nea2022
-tags:
-  - vezércikk
 ---
 Az idei évben végre újra mehettek tanulóink erdei iskolába, aminek mindannyian nagyon örültek, és felejthetetlen napokat töltöttek a Vértes csodás környezetében.
 
