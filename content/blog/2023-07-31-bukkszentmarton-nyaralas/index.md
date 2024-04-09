@@ -1,6 +1,8 @@
 ---
 title: Nyaralás Bükkszentmártonon
 date: 2023-07-31
+palyazatok:
+  - nea2023
 ---
 Az idei évben is megvalósulhatott a bükkszentmártoni nyaralás a Baptistai Szeretetszolgálat jóvoltából.
 <!--more-->
