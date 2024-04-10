@@ -3,8 +3,6 @@ title: Öko-kuckó foglalkozások
 date: 2024-01-01
 palyazatok:
   - eta-foglalkoztatasi-2023
-tags:
-  - vezércikk
 ---
 Egyre több iskola és óvoda érdeklődik integrált programunk, az Öko-kuckó foglalkozások után, melynek nagyon-nagyon örülünk!
 

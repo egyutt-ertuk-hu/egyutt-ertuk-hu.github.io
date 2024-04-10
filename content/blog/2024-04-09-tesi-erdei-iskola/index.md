@@ -3,6 +3,8 @@ title: Erdei iskola Tésen
 date: 2024-04-09
 palyazatok:
   - nea2023
+tags:
+  - vezércikk
 ---
 
 Ősszel hatalmas túrákat tehettek támogatott tanulóink a Bakonyban.
