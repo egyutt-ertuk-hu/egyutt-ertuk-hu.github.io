@@ -9,7 +9,6 @@ donate:
 
     ## 19097123-1-07
 
-
     Élve az adótörvény adta lehetőséggel, évről évre jelentős összeget tesz ki az 1%-okból befolyó bevétel.
 
 
@@ -24,14 +23,12 @@ donate:
    Köszönjük szépen!
    
    ## Bankszámlaszám
-   ```
    11736116-20093776
-   ```
+   
    
    ## IBAN szám
-   ```
-    HU83117361162009377600000000
-   ```
+   
+   HU83117361162009377600000000
 
   button:
     enable: true
