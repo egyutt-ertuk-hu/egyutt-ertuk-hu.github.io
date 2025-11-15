@@ -133,3 +133,4 @@ resources/_gen
 
 .DS_Store
 public
+.npm-cache/

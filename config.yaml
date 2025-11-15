@@ -1,4 +1,5 @@
 # url: http://localhost:1313
+baseURL: "https://egyutt-ertuk.hu"
 name: Együtt-Értük Alapítvány
 title: Együtt-Értük Alapítvány
 theme: meghna-hugo
@@ -49,7 +50,7 @@ searchKeys:
   - "content"
   - "link"
   - "author"
-  
+
 menu:
   main:
     - name: Kezdőlap
