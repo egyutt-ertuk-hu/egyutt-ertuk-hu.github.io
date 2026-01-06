@@ -1,5 +1,5 @@
 ---
-title: Szülőklub: egy igazi közösség
+title: Szülőklub\: egy igazi közösség
 date: 2025-12-12
 palyazatok:
   - eta-szakmai-2025
