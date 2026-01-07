@@ -3,8 +3,6 @@ title: Gyógylovaglás
 date: 2024-04-09
 palyazatok:
   - nea2023
-tags:
-  - vezércikk
 ---
 
 Támogatott tanulóink számára mindig nagyszerű élmény és kiemelten fontos komplex fejlesztési lehetőség a gyógylovaglás.

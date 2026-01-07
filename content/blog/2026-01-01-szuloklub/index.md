@@ -3,6 +3,8 @@ title: 'Szülőklub: egy igazi közösség'
 date: 2025-12-12
 palyazatok:
   - eta-szakmai-2025
+tags:
+  - vezércikk
 ---
 Az idei tanévben is változatos programokat kínáltak támogatott tanulóink hozzátartozóinak a Szülőklub alkalmak. 
 

@@ -3,6 +3,8 @@ title: Öko-kuckó
 date: 2025-12-12
 palyazatok:
   - eta-foglalkoztatasi-2025
+tags:
+  - vezércikk
 ---
 Az idei tanévben is nagyszerű közösségi alkalmak születtek az Öko-kuckó foglalkozások keretében. 
 

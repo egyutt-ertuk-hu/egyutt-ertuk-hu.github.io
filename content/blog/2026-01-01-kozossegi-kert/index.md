@@ -3,6 +3,8 @@ title: Közösségi kert
 date: 2025-12-20
 palyazatok:
   - eta-foglalkoztatasi-2025
+tags:
+  - vezércikk
 ---
 Ősszel támogatott fiataljaink megkezdhették palánta nevelő munkájukat.
 <!--more-->
