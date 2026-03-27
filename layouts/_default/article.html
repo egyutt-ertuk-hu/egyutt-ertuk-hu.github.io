@@ -1,7 +1,9 @@
 <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
   <div class="post-block">
     <div class="media-wrapper">
-      {{ if eq 1 (.Resources.Match "cover.*" | len)  }}
+      {{ if .Params.cover }}
+      <img class="img-fluid lozad" data-src="{{ .Permalink }}{{ .Params.cover }}" onerror="this.onerror=null;this.src='{{ .Params.image | absURL }}'">
+      {{ else if eq 1 (.Resources.Match "cover.*" | len) }}
       <img class="img-fluid lozad" data-src="{{ .Permalink }}{{ index (.Resources.Match "cover.*") 0 }}" onerror="this.onerror=null;this.src='{{ .Params.image | absURL }}'">
       {{ end }}
     </div>

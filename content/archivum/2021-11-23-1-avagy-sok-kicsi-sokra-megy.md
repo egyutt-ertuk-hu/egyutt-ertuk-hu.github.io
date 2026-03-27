@@ -1,7 +1,7 @@
 ---
 title: 1% – avagy sok kicsi sokra megy…..
 type: post
-date: 2021-11-23T10:56:54+00:00
+date: 2021-11-23
 image: /wp-content/uploads/2021/11/Alapitvany-logoja-1-hoz-2.bmp
 categories:
   - Egyéb kategória

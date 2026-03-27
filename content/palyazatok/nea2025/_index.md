@@ -1,8 +1,8 @@
 ---
-title: Nemzeti Együttműködési Alap, 2022
-id: nea2022
+title: Nemzeti Együttműködési Alap, 2025
+id: nea2025
 logo: nea-logo
 ---
 Az esemény a Nemzeti Együttműködési Alap támogatásából valósult meg.
 
-NEAO-KP-1-2022/8-000536
+NEAO-KP-1-2025/8-000341

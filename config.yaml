@@ -2,6 +2,9 @@
 baseURL: "https://egyutt-ertuk.hu"
 name: Együtt-Értük Alapítvány
 title: Együtt-Értük Alapítvány
+module:
+  imports:
+    - path: github.com/privatemaker/headless-cms
 theme: meghna-hugo
 defaultContentLanguage: hu
 taxonomies:
@@ -36,11 +39,67 @@ params:
       - link: plugins/magnific-popup/jquery.magnific-popup.min.js
       - link: plugins/lazy-load/lozad.min.js
       - link: plugins/google-map/map.js
+  headless_cms:
+    engine: "sveltia"
+    site_url: "https://egyutt-ertuk.hu"
+    backend:
+      name: "github"
+      repo: "egyutt-ertuk-hu/egyutt-ertuk-hu.github.io"
+    collections:
+      palyazatok:
+        name: palyazatok
+        create: true
+        folder: "content/palyazatok"
+        path: "{{id}}/_index"
+        fields:
+          - { name: title, label: Title }
+          - { name: id, label: ID }
+          - {
+              name: logo,
+              label: Logo,
+              widget: select,
+              options: [nea-logo, eta-logo],
+            }
+          - { name: body, label: Body, widget: markdown }
+
+      blog:
+        name: blog
+        create: true
+        folder: "content/blog"
+        path: "{{date}}-{{slug}}/index"
+        fields:
+          - { name: title, label: Title }
+          - { name: date, label: Date, widget: datetime, type: date }
+          - {
+              name: tags,
+              label: "Vezércikk? (igen/nem)",
+              widget: select,
+              options: ["vezércikk"],
+              multiple: true,
+              required: false,
+            }
+          - {
+              name: palyazatok,
+              label: Pályázatok,
+              widget: relation,
+              collection: palyazatok,
+              multiple: true,
+            }
+          - { name: body, label: Body, widget: markdown }
+          - {
+              name: cover,
+              label: Cover Image,
+              widget: image,
+              multiple: false,
+              pattern: "cover.*",
+            }
+
 outputs:
   home:
-  - HTML
-  - AMP
-  - RSS
+    - HTML
+    - AMP
+    - RSS
+    - HeadlessCMSConfig
   # - JSON
 searchKeys:
   - "tags"
@@ -54,20 +113,22 @@ searchKeys:
 menu:
   main:
     - name: Kezdőlap
-      url: ''
+      url: ""
       weight: 1
     - name: Tevékenységeink
-      url: '#about'
+      url: "#about"
       weight: 2
     - name: Hírek
-      url: '#blog'
+      url: "#blog"
       weight: 3
     - name: Rólunk
-      url: '/rolunk'
+      url: "/rolunk"
       weight: 4
     - name: Támogatóink
-      url: '#team'
+      url: "#team"
       weight: 5
     - name: Támogatás
-      url: '#donate'
+      url: "#donate"
       weight: 6
+ignoreLogs:
+  - "warning-goldmark-raw-html"
