@@ -45,6 +45,7 @@ params:
     backend:
       name: "github"
       repo: "egyutt-ertuk-hu/egyutt-ertuk-hu.github.io"
+      base_url: "https://sveltia-cms-auth.gyufi.workers.dev"
     collections:
       palyazatok:
         name: palyazatok
