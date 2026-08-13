@@ -33,6 +33,7 @@ Alapítványunk az [ÉTA Országos Szövetség](https://www.eta-szov.hu) tagszer
 - [2022](2022-szoveges-beszamolo.pdf)
 - [2023](kiegeszito-melleklet-2023.pdf)
 - [2024](Smarton.pap25051008500.pdf)
+- [2025](kiegeszito-melleklet-2025.pdf)
 
 ## Közhasznúsági beszámolók
 
@@ -44,3 +45,4 @@ Alapítványunk az [ÉTA Országos Szövetség](https://www.eta-szov.hu) tagszer
 - [2022](OBHGEPI_PK_842_19097123107_Együtt_Értük_Alapítvány_60394129838100.pdf)
 - [2023](OBHGEPI_PK_942_19097123107_Együtt_Értük_Alapítvány_633953039708400.pdf)
 - [2024](PK1042_2024.pdf)
+- [2025]('/Users/gyufi/Downloads/beszamolo-2025.pdf')
